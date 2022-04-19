@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793623036015",
+    "project_id": "flash-chat-47ca8",
+    "storage_bucket": "flash-chat-47ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793623036015:android:cad8864a0c3ce9ab874d9a",
+        "android_client_info": {
+          "package_name": "co.lekan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793623036015-ft6nhbd31cco4sb7jshnen07k6u6gm7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDwvOclGmi2FL1rSk4j4HmSn5zQXmyGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793623036015-ft6nhbd31cco4sb7jshnen07k6u6gm7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
